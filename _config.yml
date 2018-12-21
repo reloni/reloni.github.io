@@ -2,3 +2,5 @@ name: Test blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-midnight
+title: Some title
+description: Blog description
