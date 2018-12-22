@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.wrapper {
+  max-width: 80%;
+  // margin: auto;
+  // position: relative;
+  // padding: 0px;
+  // background-color: papayawhip;
+}
+
+section {
+  max-width: 100%;
+  // padding: 0px;
+  // margin: 0px;
+  margin-top: 20px;
+}
+
+section #title {
+  margin: 0px
+}
